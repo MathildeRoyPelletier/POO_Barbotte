@@ -17,7 +17,7 @@ namespace Barbotte
 
       private void RollDices()
       {
-         int de1 = Random.Shared.Next(1, 7);
+         int de1 = random.Next(1, 7);
          int de2 = Random.Shared.Next(1, 7);
          total = de1 + de2;
          lblDe1.Text = de1.ToString();
