@@ -11,7 +11,9 @@ Après  tirage  des  2  dés  la  somme  des  faces  supérieures  est calculée
 - Si  elle  vaut  2,  3  ou  12  au  premier  jet,  le  joueur  perd.  
 
 Sinon, si  la somme vaut autre chose que ce qu'on a cité au premier jet alors elle forme  les  points  du  joueur.  Dans  ce  cas  le  joueur  continue  à  jouer  le dé  jusqu'à ce 
-- qu'il  refasse  ces  points,  c'est  à  dire  qu'il  lance  la  même valeur  que  son  premier  jet  pour  gagner.  
+- qu'il  refasse  ces  points,  c'est  à  dire  qu'il  lance  la  même valeur  que  son  premier  jet  pour  gagner.   
 - qu'il  lance une somme de 7 avant de refaire ses points. Dans ce cas, il a perdu.
+
+
 
 ![Image Barbotte](./Barbotte.png)
